@@ -1,4 +1,8 @@
-package com.example.Medical.Online.Store.Order;
+package com.example.Medical.Online.Store.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
 
 public class Order {
     private String orderId;
